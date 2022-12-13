@@ -1,0 +1,115 @@
+.bg-yellow {
+  background-color: #eac926;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.buscador {
+  padding: 8px;
+}
+
+.texto-centrado {
+  text-align: center;
+}
+
+.texto-normal {
+  font-size: 12px;
+  font-style: normal;
+  text-decoration: none;
+  color: black;
+}
+
+.burger-menu {
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 8px;
+  background-color: #1259c3;
+  text-align: center;
+}
+
+.titulares {
+  font-size: 24px;
+}
+
+.precios {
+  font-size: 18px;
+}
+
+.descrpciones {
+  font-size: 16px;
+}
+
+footer {
+  text-align: center;
+}
+
+#icons {
+  font-size: 2em;
+  margin-bottom: 10px;
+  margin-top: 40px;
+  color: #03264c;
+}
+
+.footer-content {
+  margin: 30px;
+}
+
+.bottom {
+  margin-top: 20px;
+  font-size: small;
+}
+
+.pad-1 {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.main-prod {
+  align-items: center;
+  text-align: center;
+}
+
+.p1 {
+  border: 1px;
+}
+
+.separacion {
+  margin: 10px;
+  border: 1px;
+  border-style: solid;
+}
+
+.color-white {
+  color: white;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+body {
+  font-family: "Roboto";
+}
+
+.bg-yellow {
+  background-color: #eac926;
+}
+
+.bg-dark-grey {
+  background-color: #666;
+}
+
+.bg-light-grey {
+  background-color: #ebebeb;
+}
+
+.bg-blue {
+  background-color: #1259c3;
+}
+
+.color-green {
+  color: #39b54a;
+}
